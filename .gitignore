@@ -1,0 +1,18 @@
+# Debug.
+npm-debug.log
+
+# External libraries.
+node_modules/
+src/lib/
+
+# Compiled css.
+src/assets/css/
+
+#dist
+dist/
+
+#webstorm
+.idea
+
+#deploy
+.publish
